@@ -1,4 +1,4 @@
-# Mijn Project
+# Mijn PROJECT
 
 Hier staat een korte beschrijving van het probleem evt. met plaatje.
 
